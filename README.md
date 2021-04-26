@@ -17,10 +17,17 @@ Here's the source code for indentation data processing.
 
 ### Demo data
 
-​	The original data of stress relaxation process of 4 gelatin phantom samples captured during the indentation test is uploaded as demo data. Please run the "labview_display_v3.m" file with MATLAB (version: R2020b, required to be install Optimization Toolbox and Global Optimization Toolbox.
+​	The original data of stress relaxation process of 4 gelatin phantom samples captured during the indentation test is uploaded as [demo data](https://github.com/aaronfeng369/FengLab_indentation_code/tree/photo_update/demo_data). Please run the "labview_display_v3.m" file with MATLAB (version: R2020b, required to be install Optimization Toolbox and Global Optimization Toolbox.
 
 ​	The "data.xlsx" contains the all the estimated parameters (C_0,C_1,C_2,tau1,tau2,R2) of each sample. The instantaneous shear modulus G_0 and long-term shear modulus G_infty are calculated based on the estimated parameters.
 
-
 # Related Paper
 
+ If you use our MATLAB processing code or some part of the code, please cite:
+
+- Characterizing viscoelastic properties of breast cancer tissue in a mouse model using indentation
+
+  DOI: https://doi.org/10.1016/j.jbiomech.2018.01.007
+
+- Measurement of viscoelastic properties of injured mouse brain after controlled cortical impact
+  DOI: https://doi.org/10.1007/s41048-020-00110-1
