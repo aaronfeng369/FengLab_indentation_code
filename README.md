@@ -30,4 +30,7 @@ Here's the source code for indentation data processing.
   DOI: https://doi.org/10.1016/j.jbiomech.2018.01.007
 
 - Measurement of viscoelastic properties of injured mouse brain after controlled cortical impact
+  
   DOI: https://doi.org/10.1007/s41048-020-00110-1
+  
+  
