@@ -35,5 +35,5 @@ Here's the source code for indentation data processing.
   
   Comparative analysis of indentation and magnetic resonance elastography for measuring viscoelastic properties
   
-  DOI: https://doi.org/10.1007/s10409-020-01042-2
+- DOI: https://doi.org/10.1007/s10409-020-01042-2
   
