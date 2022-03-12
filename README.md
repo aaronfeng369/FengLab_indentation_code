@@ -21,6 +21,10 @@ Here's the source code for indentation data processing.
 
 ​	The "data.xlsx" contains the all the estimated parameters (C_0,C_1,C_2,tau1,tau2,R2) of each sample. The instantaneous shear modulus G_0 and long-term shear modulus G_infty are calculated based on the estimated parameters.
 
+### GUI file
+
+​	The GUI file is [here](https://github.com/aaronfeng369/FengLab_indentation_code/blob/main/Indentation%20GUI%20-%20v4.vi) and the Labview version is 2013.
+
 # Related Paper
 
  If you use our MATLAB processing code or some part of the code, please cite:
